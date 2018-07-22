@@ -6,7 +6,7 @@ void main()
 
 int switch(int* user, int* custemer)
 {
-	int* temp2;
+	int* temp1;
 	temp = user;
 	user = custemer;
 	custemer = temp;
